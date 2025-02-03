@@ -10,4 +10,4 @@ This repository contains the packages and scripts used in our federated learning
 
 ## Demo
 
-The `demos` directory includes an example implementation of our \texttt{2DBN} method, demonstrating how to use the packages and apply the methodology.
+The `demos` directory includes an example implementation of our \texttt{FDBNL} method, demonstrating how to use the packages and apply the methodology.
