@@ -1,4 +1,4 @@
-# 2DBN_Learning
+# FDBN_Learning
 
 This repository contains the packages and scripts used in our federated learning implementation of the DBN (Dynamic Bayesian Network) methodology.
 
